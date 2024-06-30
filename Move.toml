@@ -1,0 +1,12 @@
+[package]
+name = "BuckyouInterfaceV2"
+edition = "legacy"
+license = "MIT"
+authors = ["Trillionx Dev (b02901070@ntu.edu.tw)"]
+
+[dependencies]
+# use big_vector to handle massive player data
+TypusFramework = { git = "https://github.com/Typus-Lab/typus-framework", rev = "mainnet" }
+
+[addresses]
+buckyou_interface_v2 = "0x0"
