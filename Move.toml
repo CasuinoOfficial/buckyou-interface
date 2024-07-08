@@ -3,11 +3,11 @@ name = "BuckyouInterfaceV2"
 edition = "legacy"
 license = "MIT"
 authors = ["Trillionx Dev (b02901070@ntu.edu.tw)"]
-published-at = "0xa7533ea37be167feede14b7a5bd6bd9e938e61dfe068ff8e61d707ffbef95fee"
+published-at = "0x80fe74322a141e1a4de653c7ed7f8341c457fb91c7415347ba5475cda8c40faf"
 
 [dependencies]
 # use big_vector to handle massive player data
 TypusFramework = { git = "https://github.com/Typus-Lab/typus-framework", rev = "mainnet" }
 
 [addresses]
-buckyou_interface_v2 = "0x0b1bd3db2664e3d980fa8e6f2a5391cad98bc082f8fec3ed62459b3731983e5e"
+buckyou_interface_v2 = "0x80fe74322a141e1a4de653c7ed7f8341c457fb91c7415347ba5475cda8c40faf"
